@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ajshe 👋
 
-<!--
-**ajsphere/ajsphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science & Engineering Student  
+Exploring technology, creativity and new possibilities! 
 
-Here are some ideas to get you started:
+🌱 Turning ideas into projects and challenges into opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Beyond 💻
+
+🌍 Exploring new horizons  
+📸 Capturing moments
