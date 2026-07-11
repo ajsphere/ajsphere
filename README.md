@@ -1,5 +1,3 @@
-# Hi, I'm Ajshe 👋
-
 💻 Computer Science & Engineering Student  
 Exploring technology, creativity and new possibilities! 
 
