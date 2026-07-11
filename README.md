@@ -1,7 +1,5 @@
 💻 Computer Science & Engineering Student  
-Exploring technology, creativity and new possibilities! 
-
-🌱 Turning ideas into projects and challenges into opportunities.
+Exploring technology, creativity and new possibilities.
 
 ---
 
