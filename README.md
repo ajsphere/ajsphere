@@ -5,5 +5,5 @@ Exploring technology, creativity and new possibilities.
 
 ##  Beyond 💻
 
-🌍 Chasing places
-📸 Capturing moments
+ Chasing places
+ Capturing moments
